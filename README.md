@@ -2,8 +2,7 @@
 
 This repository contains an open source implementation of the transfer learning model and corresponding dataset described in our
 [paper](https://chemrxiv.org/articles/A_Transfer_Learning_Study_of_Gas_Adsorption_in_Metal-Organic_Frameworks/12111552).
-The model can be trained using the jupyter notebook code in this repository,
-and the dataset published with our paper.
+The model can be trained using the jupyter notebook code and data in this repository.
 
 
 ## Abstract
