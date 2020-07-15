@@ -1,4 +1,4 @@
-# A Transfer Learning Study of Gas Adsorption in Metal-Organic Frameworks
+# Transfer Learning Study of Gas Adsorption in Metal-Organic Frameworks
 
 This repository contains an open source implementation of the transfer learning model and corresponding dataset described in our
 [paper](https://pubs.acs.org/doi/10.1021/acsami.0c06858?ref=pdf).
@@ -24,7 +24,7 @@ Tabular data.
 If this repository is helpful for your research please cite the following
 publication:
 
-[A Transfer Learning Study of Gas Adsorption in Metal-Organic Frameworks](https://pubs.acs.org/doi/10.1021/acsami.0c06858?ref=pdf)
+[Transfer Learning Study of Gas Adsorption in Metal-Organic Frameworks](https://pubs.acs.org/doi/10.1021/acsami.0c06858?ref=pdf)
 Ruimin Ma, Yamil J. Colón, Tengfei Luo
 
 
